@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "role": "Senior AI Engineer",
+        "company": "Tech Innovations Inc.",
+        "location": "Dubai, UAE",
+        "period": "2023 - Present",
+        "description": [
+            "Leading the development of enterprise-grade RAG systems and AI agents for automated customer support.",
+            "Architected end-to-end MLOps pipelines using AWS SageMaker and MLflow, reducing deployment time by 40%.",
+            "Collaborating with cross-functional teams to integrate Generative AI solutions into existing product lines."
+        ]
+    },
+    {
+        "id": 2,
+        "role": "Machine Learning Engineer",
+        "company": "Data Solutions LLC",
+        "location": "Dubai, UAE",
+        "period": "2021 - 2023",
+        "description": [
+            "Developed and deployed computer vision models for quality control in manufacturing.",
+            "Optimized large-scale data ingestion pipelines using Azure Data Factory and Databricks.",
+            "Implemented automated testing and monitoring for production ML models."
+        ]
+    },
+    {
+        "id": 3,
+        "role": "Data Scientist",
+        "company": "Global Analytics Corp",
+        "location": "Remote",
+        "period": "2019 - 2021",
+        "description": [
+            "Conducted exploratory data analysis and predictive modeling for customer churn prediction.",
+            "Built interactive dashboards using Streamlit and Tableau to visualize key business metrics.",
+            "Utilized Python and SQL to extract actionable insights from complex datasets."
+        ]
+    }
+]

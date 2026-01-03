@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "role": "Artificial Intelligence Engineer",
+        "company": "The Law Reporters (TLR One)",
+        "location": "Dubai, UAE",
+        "period": "February 2025 – Present",
+        "description": [
+            "Developed a RAG-based multi-agent legal assistant chatbot for CRM System that supports legal research, document drafting, and client assistance. Utilized LangGraph for agent orchestration, integrated Traverly for legal research, and deployed the system using FastAPI-based microservice and Docker for scalable performance.",
+            "Led end-to-end design, development, and production deployment of an advanced RAG-based UAE legal chatbot using LangChain and Azure OpenAI, integrated with CRM via scalable FastAPI microservice for context-aware responses.",
+            "Architected and deployed multiple Generative AI microservices on FastAPI, including intelligent email processing (generation, smart replies, grammar correction, summarization), lead sentiment analysis with LangGraph, timesheet activity summarization, and real-time speech-to-text transcription with grammar correction.",
+            "Designed and developed a Legal Matter Analyzer and Recommendation Engine integrated with the Legal CRM, leveragng LangChain, Azure OpenAI, and PostgreSQL. Integrated seamlessly with the Django backend to provide intelligent matter classification, contextual recommendations, and enhanced legal workflow automation.",
+            "Developed AI-powered credit portfolio analyzer microservice that processes debt portfolios, generates transaction insights, and supports risk assessment and collection prioritization.",
+            "Engineered comprehensive Power BI analytics dashboard with real-time KPIs and built scalable FastAPI analytics microservice for dynamic data visualization across multiple sources."
+        ]
+    },
+    {
+        "id": 2,
+        "role": "Data Science Engineer",
+        "company": "Axiata Digital Labs",
+        "location": "Colombo, Sri Lanka",
+        "period": "December 2021 – January 2025",
+        "description": [
+            "Developed LLM-powered microservices generator and SRS document summarization application using LangChain, Azure OpenAI, and advanced prompt engineering; significantly improved developer productivity and code generation quality.",
+            "Designed and implemented RAG-based conversational document chatbot enabling interactive Q&A on uploaded documents.",
+            "Built customer segmentation clustering models that reduced marketing expenditure by 30% through precise targeting; also implemented credit scorecard model and dynamic credit limit decision engine.",
+            "Established MLOps pipelines on AWS SageMaker for automated model training/deployment and created AutoML workflows with PyCaret.",
+            "Designed multiple cloud-based ETL pipelines (Azure Data Factory, Databricks, Spark, Airflow, Snowflake) for forecasting, security data lakes, and modernized reporting."
+        ]
+    },
+    {
+        "id": 3,
+        "role": "Business Intelligence and Analytics Intern",
+        "company": "Dialog Axiata PLC",
+        "location": "Colombo, Sri Lanka",
+        "period": "October 2020 – December 2021",
+        "description": [
+            "Performed customer segmentation based on buying power to identify high-potential targets and optimize marketing strategies.",
+            "Developed rule-based product preference prediction model for non-sachet users, increasing sales by 60%.",
+            "Researched and engineered deep learning recommendation engine achieving 85% accuracy on 500,000 customer records for new customer targeting.",
+            "Conducted exploratory data analysis (EDA) on customer behavioral data to deliver actionable insights to product teams."
+        ]
+    }
+]

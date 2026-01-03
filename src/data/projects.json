@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Enterprise RAG Chatbot Microservice",
+        "subtitle": "Production-ready Retrieval-Augmented Generation chatbot built for enterprise scale.",
+        "description": "production-ready Retrieval-Augmented Generation (RAG) chatbot microservice built with FastAPI, designed for enterprise workloads requiring high performance, scalability, and reliability. The service delivers real-time streaming responses, robust LLM caching, advanced vector search, and a seamless knowledge ingestion pipeline, all wrapped in a clean",
+        "image": "image/architecture_diagram.png",
+        "technologies": [
+            "Python",
+            "FastAPI",
+            "LangChain",
+            "Pinecone",
+            "Redis",
+            "Microservice"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/enterprice-rag-chatbot-microservice"
+        }
+    },
+    {
+        "title": "Enterprise Legal Research Agent Chatbot",
+        "subtitle": "AI-powered legal research assistant with modern Next.js frontend.",
+        "description": "An advanced legal research tool that combines a responsive Next.js frontend with a powerful backend powered by LangGraph and FastAPI. It utilizes LLMs to parse and summarize complex legal documents, streamlining the research process for professionals.",
+        "image": "image/legal_diagram.png",
+        "technologies": [
+            "Next.js",
+            "Python",
+            "LangGraph",
+            "FastAPI",
+            "Travily Search"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/enterprice-legal-research-agent-chatbot"
+        }
+    },
+    {
+        "title": "Adversarial Training in One-Shot Models",
+        "subtitle": "Researching robustness in Tamil handwritten text classification.",
+        "description": "An academic research project exploring adversarial training techniques to improve the robustness and accuracy of one-shot learning models, specifically applied to the challenging task of Tamil handwritten text classification using PyTorch and TensorFlow.",
+        "image": "image/simense_diagram.png",
+        "technologies": [
+            "PyTorch",
+            "TensorFlow",
+            "Jupyter"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/Adversarial-Training-Techniques-in-Deep-One-shot-Models-A-Case-Study-on-Advancing-Tamil-Handwritten"
+        }
+    },
+    {
+        "title": "MLOps ETL Network Project",
+        "subtitle": "End-to-end MLOps pipeline for seamless model deployment.",
+        "description": "A comprehensive MLOps solution facilitating end-to-end machine learning operationalization. It integrates FastAPI for serving, Docker for containerization, MLflow for experiment tracking, and GitHub Actions for CI/CD, all deployed on AWS infrastructure.",
+        "image": "image/MLOps.jpg",
+        "technologies": [
+            "Python",
+            "FastAPI",
+            "Docker",
+            "MLflow",
+            "AWS"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/MLops-ETL-Network-Project"
+        }
+    },
+    {
+        "title": "RAG Personalized Recommendation System",
+        "subtitle": "LLM-driven personalization using Gemma-2b and RAG.",
+        "description": "A sophisticated recommendation engine that merges Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG). specifically utilizing the Gemma-2b model to deliver highly personalized content suggestions.",
+        "image": "image/rec.jpg",
+        "technologies": [
+            "LLMs",
+            "RAG",
+            "Jupyter"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/RAG-Personalized-Recommendation-System-Gemma-2b"
+        }
+    },
+    {
+        "title": "Sales Data Azure ETL Pipeline",
+        "subtitle": "Scalable cloud data engineering pipeline on Azure.",
+        "description": "A robust data engineering project demonstrating a scalable ETL pipeline. It captures sales data, processes it using Azure Data Factory and Databricks, and prepares it for analytics, showcasing modern cloud data warehousing practices.",
+        "image": "image/azure_pipe.png",
+        "technologies": [
+            "Azure",
+            "Databricks",
+            "Jupyter"
+        ],
+        "links": {
+            "github": "https://github.com/aadhil96/Sales_Data_Azure_ETL_Data_Engineering_Pipeline"
+        }
+    }
+]

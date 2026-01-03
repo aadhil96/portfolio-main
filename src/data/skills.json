@@ -1,0 +1,331 @@
+[
+    {
+        "name": "Python",
+        "icon": "devicon:python",
+        "category": "Data Science",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "PyTorch",
+        "icon": "devicon:pytorch",
+        "category": "Deep Learning",
+        "rating": 5,
+        "label": "Proficient"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "devicon:tensorflow",
+        "category": "Deep Learning",
+        "rating": 5,
+        "label": "Proficient"
+    },
+    {
+        "name": "Hugging Face",
+        "icon": "logos:hugging-face-icon",
+        "category": "Deep Learning",
+        "rating": 5,
+        "label": "Proficient"
+    },
+    {
+        "name": "LangChain",
+        "icon": "simple-icons:langchain",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "LangGraph",
+        "icon": "simple-icons:langgraph",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "LlamaIndex",
+        "icon": "simple-icons:llamaindex",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Google ADK",
+        "icon": "simple-icons:google-adk",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Microsoft Autogen",
+        "icon": "simple-icons:microsoft-autogen",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "CrewAI",
+        "icon": "simple-icons:crewai",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Azure OpenAI",
+        "icon": "material-icon-theme:azure",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Google Gemini",
+        "icon": "logos:google-gemini",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "ollama",
+        "icon": "devicon:ollama",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "OpenAI",
+        "icon": "logos:openai-icon",
+        "category": "LLMs & Agents",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Chroma DB",
+        "icon": "logos:chroma",
+        "category": "LLMs & Agents",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Pinecone DB",
+        "icon": "logos:pinecone-icon",
+        "category": "LLMs & Agents",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Qdrant DB",
+        "icon": "logos:qdrant-icon",
+        "category": "LLMs & Agents",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "MLflow",
+        "icon": "logos:mlflow",
+        "category": "MLOps",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "DVC",
+        "icon": "file-icons:dvc",
+        "category": "MLOps",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Docker",
+        "icon": "devicon:docker",
+        "category": "MLOps",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "Kubernetes",
+        "icon": "devicon:kubernetes",
+        "category": "MLOps",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Weights & Biases",
+        "icon": "",
+        "category": "MLOps",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Grafana",
+        "icon": "devicon:grafana",
+        "category": "MLOps",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Linux",
+        "icon": "flat-color-icons:linux",
+        "category": "MLOps",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "FastAPI",
+        "icon": "devicon:fastapi",
+        "category": "Software Development",
+        "rating": 5,
+        "label": "Expert"
+    },
+    {
+        "name": "AWS",
+        "icon": "devicon:amazonwebservices-wordmark",
+        "category": "Cloud ML",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Azure",
+        "icon": "devicon:azure",
+        "category": "Cloud ML",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Snowflake",
+        "icon": "logos:snowflake-icon",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Scikit-learn",
+        "icon": "devicon:scikitlearn",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Keras",
+        "icon": "devicon:keras",
+        "category": "Deep Learning",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Pandas",
+        "icon": "logos:pandas-icon",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "XGBoost",
+        "icon": "",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Numpy",
+        "icon": "logos:numpy",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "devicon:matplotlib",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "PowerBI",
+        "icon": "logos:microsoft-power-bi",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Tableau",
+        "icon": "logos:tableau-icon",
+        "category": "Data Science",
+        "rating": 3,
+        "label": "Intermediate"
+    },
+    {
+        "name": "Django",
+        "icon": "akar-icons:django-fill",
+        "category": "Software Development",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Postgres SQL",
+        "icon": "devicon:postgresql",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Ms SQL",
+        "icon": "",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Apache Spark",
+        "icon": "devicon:apachespark",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Apache Airflow",
+        "icon": "devicon:apacheairflow",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Azure Data Factory",
+        "icon": "simple-icons:azuredatafactory",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "AWS Glue",
+        "icon": "simple-icons:awsglue",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Databricks",
+        "icon": "tabler:brand-databricks",
+        "category": "Data Engineering",
+        "rating": 4,
+        "label": "Proficient"
+    },
+    {
+        "name": "Problem Solving",
+        "icon": "lucide:brain",
+        "category": "Soft Skills",
+        "rating": 5,
+        "label": "Natural"
+    },
+    {
+        "name": "Communication",
+        "icon": "lucide:users",
+        "category": "Soft Skills",
+        "rating": 4,
+        "label": "Strong"
+    },
+    {
+        "name": "Collaboration",
+        "icon": "lucide:users",
+        "category": "Soft Skills",
+        "rating": 4,
+        "label": "Expert"
+    }
+]

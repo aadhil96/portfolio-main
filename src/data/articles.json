@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Simple Guide to MCP Authentication in Python with FastAPI",
+        "description": "Learn how to build a secure MCP server using FastAPI with token-based authentication to enable AI agents to interact with your applications safely.",
+        "image": "https://cdn.analyticsvidhya.com/wp-content/uploads/2025/05/FastAPI-to-MCP.jpg",
+        "link": "https://aadhil96.github.io/posts/mcp-authentication-fastapi/",
+        "platform": "Portfolio",
+        "readTime": "5 min read"
+    },
+    {
+        "title": "Efficient Data Encoding for Large Language Models",
+        "description": "TOON (Token-Oriented Object Notation) is a compact, human-readable format designed for passing structured data to Large Language Models with significantly reduced token usage (30-60% reduction compared to JSON).",
+        "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1762968459600/03584141-37ae-429d-a999-99ffb93acdcc.png",
+        "link": "https://aadhil96.github.io/posts/toon-python-efficient-data-encoding/",
+        "platform": "Portfolio",
+        "readTime": "8 min read"
+    },
+    {
+        "title": "Benchmarking LLM Performance: Python vs Go",
+        "description": "Real-world benchmark comparison of Python and Go clients for LLM APIs using Groq's ultra-fast inference service. Discover which language wins for speed and consistency.",
+        "image": "https://images.prismic.io/oxylabs-web/ZpBdkx5LeNNTxEVi_2f7d78b5-0162-467d-8ce9-53148f39345c_Go_vs_Python_1200x600_dark.png",
+        "link": "https://aadhil96.github.io/posts/benchmarking-llm-python-vs-go/",
+        "platform": "Portfolio",
+        "readTime": "4 min read"
+    },
+    {
+        "title": "Architecting Reliable LLM Microservices Service Layer Design Patterns for GenAI APIs",
+        "description": "Discover how the Service Layer Pattern enhances modularity, testability, and scalability in building GenAI-powered FastAPI microservices for LLM inference.",
+        "image": "https://cdn.prod.website-files.com/5f23ea6573efdd34e5776065/66a26c732aa7ef3c6239a9fe_AI%20and%20Microservices.png",
+        "link": "https://aadhil96.github.io/posts/streamlining-genai-microservices-harnessing-the-service-layer-pattern/",
+        "platform": "Portfolio",
+        "readTime": "4 min read"
+    },
+    {
+        "title": "The Importance of Multi-Stage Dockerization in LLM Application Deployment",
+        "description": "Learn how multi-stage Docker builds can dramatically improve LLM application deployment with smaller images, faster builds, enhanced security, and better scalability across CPU and GPU environments.",
+        "image": "https://miro.medium.com/0*ArxuJRc6CzAP68_T.jpg",
+        "link": "https://aadhil96.github.io/posts/multi-stage-dockerization-llm-applications/",
+        "platform": "Portfolio",
+        "readTime": "4 min read"
+    },
+    {
+        "title": "Optimizing LLM Inference Pipelines with Docker Caching and Model Preloading",
+        "description": "Learn how Docker caching and model preloading can dramatically improve the performance and reliability of LLM-based applications.",
+        "image": "https://cdn.prod.website-files.com/614c82ed388d53640613982e/6883a8682b54188c09f561cc_llm-operations-llmops.webp",
+        "link": "https://aadhil96.github.io/posts/optimizing-llm-inference-pipelines/",
+        "platform": "Portfolio",
+        "readTime": "4 min read"
+    }
+]
