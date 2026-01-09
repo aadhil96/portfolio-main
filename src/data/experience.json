@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "role": "Artificial Intelligence Engineer",
+        "role": "Senior Artificial Intelligence Engineer",
         "company": "The Law Reporters (TLR One)",
         "location": "Dubai, UAE",
         "period": "February 2025 – Present",
@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-        "role": "Data Science Engineer",
+        "role": "Data Scientist",
         "company": "Axiata Digital Labs",
         "location": "Colombo, Sri Lanka",
         "period": "December 2021 – January 2025",
