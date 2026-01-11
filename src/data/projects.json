@@ -33,18 +33,17 @@
         }
     },
     {
-        "title": "Adversarial Training in One-Shot Models",
-        "subtitle": "Researching robustness in Tamil handwritten text classification.",
-        "description": "An academic research project exploring adversarial training techniques to improve the robustness and accuracy of one-shot learning models, specifically applied to the challenging task of Tamil handwritten text classification using PyTorch and TensorFlow.",
-        "image": "image/simense_diagram.png",
+        "title": "Lumina AI: Enterprise Document Intelligence",
+        "subtitle": "Enterprice grade Document Intelligence Platforms",
+        "description": "Lumina AI is a professional, full-stack AI platform designed to transform your static documents into an interactive knowledge base. Built with precision for enterprise scalability, it features high-performance retrieval-augmented generation (RAG), persistent document storage, and a stunning modern interface.",
+        "image": "https://github.com/aadhil96/lumina_ai/raw/main/docs/assets/architecture_diagram.png",
         "technologies": [
-            "PyTorch",
-            "TensorFlow",
-            "Jupyter"
+            "Python",
+            "LangChain",
+            "React JS"
         ],
         "links": {
-            "github": "https://github.com/aadhil96/Adversarial-Training-Techniques-in-Deep-One-shot-Models-A-Case-Study-on-Advancing-Tamil-Handwritten"
-        }
+            "github": "https://github.com/aadhil96/lumina_ai"}
     },
     {
         "title": "MLOps ETL Network Project",
